@@ -37,19 +37,9 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true)
 
 <!-- Uncomment the line below to add a fun contribution snake graphic! -->
-<!-- ![Contribution Snake](https://raw.githubusercontent.com/nbolok-code/nbolok-code/output/github-contribution-grid-snake.svg) -->
+[Contribution Snake](https://raw.githubusercontent.com/nbolok-code/nbolok-code/output/github-contribution-grid-snake.svg)
 
----
 
-### 🧑‍💻 Featured Projects
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **[Class Connect System](https://github.com/nbolok-code/class-connect)** | A smart platform for managing classes, schedules, and academic resources. | Flutter, Firebase, Python |
-| **[Medical Waste Management](https://github.com/nbolok-code/medical-waste)** | An innovative system to track, manage, and optimize medical waste disposal. | Python, IoT, Web Dashboard |
-| *More projects on my [GitHub](https://github.com/nbolok-code?tab=repositories)* | | |
-
----
 
 ### 📫 Let's Connect
 I'm always open to discussing tech, collaboration, or new opportunities.
@@ -58,5 +48,4 @@ I'm always open to discussing tech, collaboration, or new opportunities.
 - **GitHub:** [@nbolok-code](https://github.com/nbolok-code)
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
----
-*This README is powered by creativity and ☕. Last updated: December 2025.*
+
