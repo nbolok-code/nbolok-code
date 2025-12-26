@@ -30,17 +30,13 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
----
 ### 📈 GitHub Stats & Activity
 
 ![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nbolok-code&theme=dark&hide_border=true)
-
-<!-- Contribution Snake Graphic -->
-![Contribution Snake](https://github.com/nbolok-code/nbolok-code/blob/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=nbolok-code&theme=dark&hide_border=true)
 
 ### 📊 Weekly Development Breakdown
 
