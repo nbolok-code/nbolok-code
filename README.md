@@ -39,6 +39,10 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
 
 
+![Commits Distribution](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbolok-code&theme=github_dark)
+
+
+
 
 
 
