@@ -33,8 +33,8 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ### 📈 GitHub Stats & Activity
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbolok-code&theme=github_dark)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nbolok-code&theme=dark&hide_border=true)
 
