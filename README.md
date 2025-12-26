@@ -39,13 +39,11 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbolok-code&theme=github_dark)
 
 
-### 📊 Weekly Development Breakdown
 
 ### 📫 Let's Connect
 I'm always open to discussing tech, collaboration, or new opportunities.
 
-- **Email:** [nathan@example.com](mailto:nathan@example.com)
+- **Email:** [nathan@example.com](mailto:nathanbolokonya30@gmail.com)
 - **GitHub:** [@nbolok-code](https://github.com/nbolok-code)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 
