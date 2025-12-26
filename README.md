@@ -36,7 +36,8 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nbolok-code&theme=dark&hide_border=true)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbolok-code&theme=github_dark)
+
 
 ### 📊 Weekly Development Breakdown
 
