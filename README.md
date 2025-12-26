@@ -31,8 +31,8 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ### 📈 GitHub Stats & Activity
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbolok-code&theme=github_dark)
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
