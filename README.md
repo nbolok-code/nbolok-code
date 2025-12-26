@@ -31,16 +31,18 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ---
-
 ### 📈 GitHub Stats & Activity
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true)
+![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
-<!-- Uncomment the line below to add a fun contribution snake graphic! -->
-[Contribution Snake](https://raw.githubusercontent.com/nbolok-code/nbolok-code/output/github-contribution-grid-snake.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nbolok-code&theme=dark&hide_border=true)
 
+<!-- Contribution Snake Graphic -->
+![Contribution Snake](https://github.com/nbolok-code/nbolok-code/blob/output/github-contribution-grid-snake.svg)
+
+### 📊 Weekly Development Breakdown
 
 ### 📫 Let's Connect
 I'm always open to discussing tech, collaboration, or new opportunities.
