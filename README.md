@@ -43,7 +43,7 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ### 📫 Let's Connect
 I'm always open to discussing tech, collaboration, or new opportunities.
 
-- **Email:** [nathan@example.com](mailto:nathanbolokonya30@gmail.com)
+- **Email:** [nathanbolokonya30@gmail.com](mailto:nathanbolokonya30@gmail.com)
 - **GitHub:** [@nbolok-code](https://github.com/nbolok-code)
 
 
