@@ -34,6 +34,7 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbolok-code&theme=github_dark)
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbolok-code&theme=github_dark)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbolok-code&theme=github_dark&utcOffset=2)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
 
