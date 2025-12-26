@@ -6,7 +6,8 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ### 🚀 Quick Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.here)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: nathanbolokonya30@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanbolokonya30@gmail.com)
+
 
 ---
 
@@ -39,15 +40,5 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
 ![Commits Distribution](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbolok-code&theme=github_dark)
 
-
-
-
-
-
-### 📫 Let's Connect
-I'm always open to discussing tech, collaboration, or new opportunities.
-
-- **Email:** [nathanbolokonya30@gmail.com](mailto:nathanbolokonya30@gmail.com)
-- **GitHub:** [@nbolok-code](https://github.com/nbolok-code)
 
 
