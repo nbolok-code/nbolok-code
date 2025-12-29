@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nathan
+2# 👋 Hi, I'm Nathan
 
 💻 **Turning ideas into code, one project at a time**  
 Exploring the future of tech through coding, Arduino, Blender, and AI.
@@ -37,6 +37,4 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbolok-code&theme=github_dark&utcOffset=2)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
-![Snake game](https://raw.githubusercontent.com/nbolok-code/nbolok-code/output/github-contribution-grid-snake.svg)
-
-
+![Metrics](https://metrics.lecoq.io/nbolok-code?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
