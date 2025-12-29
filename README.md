@@ -1,4 +1,4 @@
-2# 👋 Hi, I'm Nathan
+👋 Hi, I'm Nathan
 
 💻 **Turning ideas into code, one project at a time**  
 Exploring the future of tech through coding, Arduino, Blender, and AI.
