@@ -37,7 +37,6 @@ Exploring the future of tech through coding, Arduino, Blender, and AI.
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbolok-code&theme=github_dark&utcOffset=2)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=github_dark)
-![Commits Distribution](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbolok-code&theme=github_dark)
-
+![Snake game](https://raw.githubusercontent.com/nbolok-code/nbolok-code/output/github-contribution-grid-snake.svg)
 
 
