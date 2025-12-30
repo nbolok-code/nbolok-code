@@ -32,18 +32,16 @@ const nathan = {
     
     techStack: {
         languages: ["Dart", "Python", "JavaScript", "C", "Java"],
-        aiMl: ["TensorFlow", "PyTorch", "Keras", "OpenCV"],
-        mobile: ["Flutter", "Firebase", "SQLite"],
-        hardware: ["Arduino", "ESP32", "Raspberry Pi"],
-        creative: ["Blender", "Three.js", "Unity"],
-        tools: ["Git", "Docker", "VS Code", "Figma"]
+        aiMl: ["TensorFlow", "PyTorch"],
+        mobile: ["Flutter", "Firebase"],
+        tools: ["Git","VS Code", "Figma"]
     },
     
     currentProjects: [
         "Real-time object detection system",
-        "Cross-platform mobile app suite",
-        "3D visualization tools",
-        "IoT smart home automation"
+        "Medical waste management system (AI classifier)",
+        "Edulink",
+        "Medicare"
     ]
 };
 ```
@@ -65,10 +63,7 @@ const nathan = {
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ### Mobile & Web
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -76,19 +71,16 @@ const nathan = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
 
 ### Creative & Design
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
