@@ -11,7 +11,6 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=nbolok-code&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/nbolok-code?color=FF6F00&label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/nbolok-code?color=FFD700&style=for-the-badge&label=STARS" alt="Stars" />
 
