@@ -1,18 +1,17 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Building+the+Future+with+AI;Flutter+%7C+TensorFlow+%7C+Arduino;From+Idea+to+Production;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=CS+Student+Focusing+on+Backend;Python+→+Go+Learning+Journey;Building+on+AI+%2B+Mobile+Skills" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Views & Followers -->
 <img src="https://img.shields.io/github/followers/nbolok-code?color=FF6F00&label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/nbolok-code?color=FFD700&style=for-the-badge&label=STARS" alt="Stars" />
+<img src="https://img.shields.io/badge/3rd%20Year-CS%20Student-00D4FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
 
 </div>
 
@@ -20,68 +19,61 @@
 
 ## About Me
 
-```typescript
-const nathan = {
-    location: "Lilongwe, Malawi",
-    role: "AI Engineer & Full Stack Developer",
-    currentFocus: ["Computer Vision", "Mobile Apps", "IoT"],
-    learning: ["Advanced ML", "3D Graphics", "System Design"],
-    funFact: "I turn coffee into code and ideas into reality",
-    lifePhilosophy: "Build. Break. Learn. Repeat.",
-    
-    techStack: {
-        languages: ["Dart", "Python", "JavaScript", "C", "Java"],
-        aiMl: ["TensorFlow", "PyTorch"],
-        mobile: ["Flutter", "Firebase"],
-        tools: ["Git","VS Code", "Figma"]
-    },
-    
-    currentProjects: [
-        "Real-time object detection system",
-        "Medical waste management system (AI classifier)",
-        "Edulink",
-        "Medicare"
-    ]
-};
-```
+I'm a 3rd Year Computer Science Student from Lilongwe, Malawi, currently transitioning from AI and Mobile Development to Backend Development. My goal is to become a professional backend developer.
+
+**Current Learning Focus:**
+- Backend Development with Python (FastAPI/Django)
+- Planning to learn Go (Golang) next
+- Building REST APIs and database systems
+- Authentication and containerization
+
+**University Background:**
+- Experience with Dart/Flutter, JavaScript, C, Java
+- AI/ML projects with TensorFlow
+- Mobile application development
+
+**Projects:**
+- Real-time object detection system
+- Medical waste management AI classifier
+- Edulink education platform
+- Medicare healthcare app
+- Learning Python backend projects
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Tech Stack
+## Tech Stack & Learning Path
 
 <div align="center">
 
-### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🎯 **Primary Focus - Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 🚀 **Next Step - Go Language**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin_Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-
-### Mobile & Web
+### 🎓 **University & Background Skills**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+### 🗄️ **Backend Ecosystem**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-
-### Creative & Design
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-### Tools & Platforms
+### 🛠️ **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
@@ -91,7 +83,6 @@ const nathan = {
 
 <div align="center">
 
-<!-- Stats and Languages Side by Side -->
 <a href="https://github.com/nbolok-code">
   <img src="https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" height="180em" />
 </a>
@@ -99,7 +90,6 @@ const nathan = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&hide=html,css&card_width=320" height="180em" />
 </a>
 
-<!-- Most Used Languages - Donut Chart Style -->
 <a href="https://github.com/nbolok-code">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" width="38%" />
 </a>
@@ -107,7 +97,6 @@ const nathan = {
   <img src="https://streak-stats.demolab.com?user=nbolok-code&theme=radical&hide_border=true&background=0D1117&border=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%" />
 </a>
 
-<!-- Productive Time and Language Stats -->
 <a href="https://github.com/nbolok-code">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbolok-code&theme=radical&utcOffset=2" width="32%" />
 </a>
@@ -118,12 +107,10 @@ const nathan = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbolok-code&theme=radical" width="32%" />
 </a>
 
-<!-- Contribution Calendar Heatmap -->
 <a href="https://github.com/nbolok-code">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbolok-code&theme=radical" width="100%" />
 </a>
 
-<!-- Trophy Stats -->
 <a href="https://github.com/nbolok-code">
   <img src="https://github-profile-trophy.vercel.app/?username=nbolok-code&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 </a>
@@ -132,39 +119,72 @@ const nathan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Featured Projects
+## Projects & Learning Journey
 
 <div align="center">
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Real-Time Object Detection</h3>
+      <h3 align="center">AI/Mobile Background</h3>
       <div align="center">
         <a href="https://github.com/nbolok-code/real-time-object-detection" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbolok-code&repo=real-time-object-detection&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF" />
         </a>
         <p>
-          <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         </p>
-        <p><strong>Browser-based AI with live webcam detection, bounding boxes, and real-time stats</strong></p>
+        <p><strong>Real-time object detection & mobile applications - My technical foundation</strong></p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">Flutter Apps Portfolio</h3>
+      <h3 align="center">Backend Learning</h3>
       <div align="center">
         <a href="https://github.com/nbolok-code" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbolok-code&repo=flutter-apps&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbolok-code&repo=python-backend-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF" />
         </a>
         <p>
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         </p>
-        <p><strong>Cross-platform mobile apps with beautiful UI and seamless performance</strong></p>
+        <p><strong>Learning backend development: APIs, databases, authentication</strong></p>
       </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="25%">
+      <h4 align="center">Current Skills</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-Expertise-02569B?style=for-the-badge" />
+        <br/>Mobile & AI Development
+      </p>
+    </td>
+    <td width="25%">
+      <h4 align="center">Learning Now</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>FastAPI, Django, Databases
+      </p>
+    </td>
+    <td width="25%">
+      <h4 align="center">Next Step</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+        <br/>High-performance systems
+      </p>
+    </td>
+    <td width="25%">
+      <h4 align="center">Goal</h4>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Backend_Developer-FF6F00?style=for-the-badge&logo=server&logoColor=white" />
+        <br/>Professional backend role
+      </p>
     </td>
   </tr>
 </table>
@@ -175,11 +195,25 @@ const nathan = {
 
 ## What I'm Up To
 
-- Currently building: **Advanced AI-powered mobile applications**
-- Learning: **Advanced ML algorithms & System Design**
-- Open to collaborate on: **AI/ML projects & Open Source**
-- Ask me about: **Flutter, TensorFlow, Arduino, Blender**
-- Fun fact: **I can debug code faster than I can fix my sleep schedule**
+**As a CS Student:**
+- Currently building Python backend projects & learning APIs
+- University focus: Computer Science fundamentals & projects
+- Career preparation: Transitioning from mobile/AI to backend development
+
+**Learning Path:**
+- Phase 1: Master Python backend (FastAPI/Django/Flask)
+- Phase 2: Learn Go for scalable systems
+- Phase 3: Build portfolio of backend projects
+- Phase 4: Prepare for backend internships/junior roles
+
+**Open to:**
+- Collaborate on Backend learning projects, open source contributions
+- Mentorship from experienced backend developers
+- Backend development internships
+- Questions about Flutter, AI projects, Python basics
+
+**Current Mindset:**
+> "Building my backend skills while leveraging my AI/mobile background. Every day is a learning opportunity."
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -190,7 +224,12 @@ const nathan = {
 [![Email](https://img.shields.io/badge/Email-nathanbolokonya30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanbolokonya30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan_Bolokonya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-bolokonya)
 [![GitHub](https://img.shields.io/badge/GitHub-nbolok--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbolok-code)
+[![Twitter](https://img.shields.io/badge/Twitter-@nbolok_code-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nbolok_code)
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Learning_Journey-FF6F00?style=for-the-badge&logo=medium&logoColor=white)]()
 
 </div>
 
@@ -198,18 +237,22 @@ const nathan = {
 
 <div align="center">
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Learning Philosophy
+My approach to becoming a backend developer: Build projects, learn from mistakes, document progress, repeat until confident.
+
+### Current Focus Quote
+> "The expert in anything was once a beginner. I'm building my backend expertise one project at a time."
 
 ### Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&q=Why%20do%20Python%20developers%20wear%20glasses?%20Because%20they%20can't%20C%20!)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
-**Built with care by [Nathan Bolokonya](https://github.com/nbolok-code)**
+**Nathan Bolokonya - 3rd Year CS Student | Building Backend Skills**  
+*Transitioning from AI/Mobile to Backend Development*
 
-![](https://hit.yhype.me/github/profile?user_id=nbolok-code)
+[![View Counter](https://komarev.com/ghpvc/?username=nbolok-code&color=00D4FF&style=flat-square)](https://github.com/nbolok-code)
 
 </div>
