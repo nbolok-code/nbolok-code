@@ -121,77 +121,7 @@ src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## Projects & Learning Journey
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI/Mobile Background</h3>
-      <div align="center">
-        <a href="https://github.com/nbolok-code/real-time-object-detection" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbolok-code&repo=real-time-object-detection&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF" />
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </p>
-        <p><strong>Real-time object detection & mobile applications - My technical foundation</strong></p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Backend Learning</h3>
-      <div align="center">
-        <a href="https://github.com/nbolok-code" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nbolok-code&repo=python-backend-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF" />
-        </a>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        </p>
-        <p><strong>Learning backend development: APIs, databases, authentication</strong></p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="25%">
-      <h4 align="center">Current Skills</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-Expertise-02569B?style=for-the-badge" />
-        <br/>Mobile & AI Development
-      </p>
-    </td>
-    <td width="25%">
-      <h4 align="center">Learning Now</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <br/>FastAPI, Django, Databases
-      </p>
-    </td>
-    <td width="25%">
-      <h4 align="center">Next Step</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go_(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-        <br/>High-performance systems
-      </p>
-    </td>
-    <td width="25%">
-      <h4 align="center">Goal</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Backend_Developer-FF6F00?style=for-the-badge&logo=server&logoColor=white" />
-        <br/>Professional backend role
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
