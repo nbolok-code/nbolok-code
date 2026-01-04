@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Dev+Focusing+on+Backend;Python+→+Go+Learning+Journey;" alt="Typing SVG" />
