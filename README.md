@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Dev+Focusing+on+Backend;Python+→+Go+Learning+Journey;Building+on+AI+%2B+Mobile+Skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Dev+Focusing+on+Backend;Python+→+Go+Learning+Journey;" alt="Typing SVG" />
 
 
 
@@ -14,8 +14,8 @@
 
 <!-- Profile Views & Followers -->
 <img src="https://img.shields.io/github/followers/nbolok-code?color=FF6F00&label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/3rd%20Year-CS%20Student-00D4FF?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Student" />
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
+<img
+src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## About Me
 
-**Current Learning Focus:**
+**Focus:**
 - Backend Development with Python (FastAPI/Django)
 - Planning to learn Go (Golang) next
 - Building REST APIs and database systems
@@ -57,7 +57,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin_Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### 🎓 **University & Background Skills**
+### 🎓 **Background Skills**
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -195,19 +195,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## What I'm Up To
-
-**As a CS Student:**
-- Currently building Python backend projects & learning APIs
-- University focus: Computer Science fundamentals & projects
-- Career preparation: Transitioning from mobile/AI to backend development
-
-**Learning Path:**
-- Phase 1: Master Python backend (FastAPI/Django/Flask)
-- Phase 2: Learn Go for scalable systems
-- Phase 3: Build portfolio of backend projects
-- Phase 4: Prepare for backend internships/junior roles
-
 **Open to:**
 - Collaborate on Backend learning projects, open source contributions
 - Mentorship from experienced backend developers
@@ -252,9 +239,9 @@ My approach to becoming a backend developer: Build projects, learn from mistakes
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
-**Nathan Bolokonya - 3rd Year CS Student | Building Backend Skills**  
+**Nathan Bolokonya -| Building Backend Skills**  
 *Transitioning from AI/Mobile to Backend Development*
 
-[![View Counter](https://komarev.com/ghpvc/?username=nbolok-code&color=00D4FF&style=flat-square)](https://github.com/nbolok-code)
+
 
 </div>
