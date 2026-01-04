@@ -4,7 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=CS+Student+Focusing+on+Backend;Python+→+Go+Learning+Journey;Building+on+AI+%2B+Mobile+Skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Dev+Focusing+on+Backend;Python+→+Go+Learning+Journey;Building+on+AI+%2B+Mobile+Skills" alt="Typing SVG" />
+
+
+
+
 
 <br/>
 
@@ -19,15 +23,13 @@
 
 ## About Me
 
-I'm a 3rd Year Computer Science Student from Lilongwe, Malawi, currently transitioning from AI and Mobile Development to Backend Development. My goal is to become a professional backend developer.
-
 **Current Learning Focus:**
 - Backend Development with Python (FastAPI/Django)
 - Planning to learn Go (Golang) next
 - Building REST APIs and database systems
 - Authentication and containerization
 
-**University Background:**
+**Background:**
 - Experience with Dart/Flutter, JavaScript, C, Java
 - AI/ML projects with TensorFlow
 - Mobile application development
