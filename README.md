@@ -168,7 +168,6 @@ My approach to becoming a backend developer: Build projects, learn from mistakes
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
-![GitHub GIF](githubgif.gif)
 
 **Nathan Bolokonya -| Building Backend Skills**  
 *Transitioning from AI/Mobile to Backend Development*
