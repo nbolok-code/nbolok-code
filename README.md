@@ -20,9 +20,11 @@ src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-t
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-![Code Terminal](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
 
 ## About Me
+
+![Developer Typing](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 **Focus:**
 - Backend Development with Python (FastAPI/Django)
