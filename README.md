@@ -1,156 +1,110 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nathan%20Bolokonya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer%20%7C%20AI%20%2B%20Mobile&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:10B981&height=180&section=header&text=Nathan%20Bolokonya&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Dev+Focusing+on+Backend;Python+→+Go+Learning+Journey;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+backend+developer;%3E+ai+%2B+mobile+background;%3E+python+%E2%86%92+go_" alt="Terminal typing animation" />
 
-
-
-
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://img.shields.io/github/followers/nbolok-code?color=FF6F00&label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers" />
-<img
-src="https://img.shields.io/badge/Focus-Backend%20Development-FF6F00?style=for-the-badge&logo=server&logoColor=white" alt="Focus" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### About
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+Backend developer in the making, with a background in AI and mobile. I build projects that turn ideas into working software.
 
+**Approach:** build, break, document, repeat.
 
-## Tech Stack & Learning Path
+</td>
+<td width="50%" valign="top">
+
+### Now
+
+- Building backend projects in public
+- Exploring IoT and connected devices
+- Looking for backend internships
+
+**Open to:** collaboration, open source, mentorship, and questions on Flutter or AI.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Stack
+
+**Backend** &nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+**Mobile & AI** &nbsp;
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+**IoT** &nbsp;
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+**Other** &nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/nbolok-code">
+  <img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&icon_color=22D3EE&text_color=E2E8F0&count_private=true&include_all_commits=true" />
+</a>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/nbolok-code">
+  <img width="100%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&text_color=E2E8F0&langs_count=8&hide=html,css" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://github.com/nbolok-code">
+  <img width="100%" alt="Streak" src="https://streak-stats.demolab.com?user=nbolok-code&theme=dark&background=0F172A&ring=34D399&fire=22D3EE&currStreakLabel=34D399&hide_border=true" />
+</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🎯 **Primary Focus - Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### Connect
 
-### 🚀 **Next Step - Go Language**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin_Framework-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### 🎓 **Background Skills**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🗄️ **Backend Ecosystem**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🛠️ **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbolok-code&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6F00&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" height="180em" />
-</a>
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10&hide=html,css&card_width=320" height="180em" />
-</a>
-
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbolok-code&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" width="38%" />
-</a>
-<a href="https://github.com/nbolok-code">
-  <img src="https://streak-stats.demolab.com?user=nbolok-code&theme=radical&hide_border=true&background=0D1117&border=00D4FF&ring=FF6F00&fire=FF6F00&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%" />
-</a>
-
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbolok-code&theme=radical&utcOffset=2" width="32%" />
-</a>
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbolok-code&theme=radical" width="32%" />
-</a>
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbolok-code&theme=radical" width="32%" />
-</a>
-
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbolok-code&theme=radical" width="100%" />
-</a>
-
-<a href="https://github.com/nbolok-code">
-  <img src="https://github-profile-trophy.vercel.app/?username=nbolok-code&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</a>
-
-</div>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-**Open to:**
-- Collaborate on Backend learning projects, open source contributions
-- Mentorship from experienced backend developers
-- Backend development internships
-- Questions about Flutter, AI projects, Python basics
-
-**Current Mindset:**
-> "Building my backend skills while leveraging my AI/mobile background. Every day is a learning opportunity."
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-nathanbolokonya30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanbolokonya30@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nathan_Bolokonya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nathan-bolokonya)
-[![GitHub](https://img.shields.io/badge/GitHub-nbolok--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nbolok-code)
-[![Twitter](https://img.shields.io/badge/Twitter-@nbolok_code-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nbolok_code)
+[![Email](https://img.shields.io/badge/Email-Say_hello-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:nathanbolokonya30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/nathan-bolokonya)
+[![GitHub](https://img.shields.io/badge/GitHub-nbolok--code-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/nbolok-code)
+[![X](https://img.shields.io/badge/X-@nbolok__code-0F172A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/nbolok_code)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=googlechrome&logoColor=34D399)](https://nathanbee.netlify.app)
+[![Blog](https://img.shields.io/badge/Blog-Read-0F172A?style=flat-square&logo=medium&logoColor=white)](https://nathanbee.netlify.app/blog)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nathanbee.netlify.app)
-
-[![Blog](https://img.shields.io/badge/Learning_Journey-FF6F00?style=for-the-badge&logo=medium&logoColor=white)](https://nathanbee.netlify.app/blog)
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-### Learning Philosophy
-My approach to becoming a backend developer: Build projects, learn from mistakes, document progress, repeat until confident.
-
-### Current Focus Quote
-> "The expert in anything was once a beginner. I'm building my backend expertise one project at a time."
-
-### Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder&q=Why%20do%20Python%20developers%20wear%20glasses?%20Because%20they%20can't%20C%20!)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-
-**Nathan Bolokonya -| Building Backend Skills**  
-*Transitioning from AI/Mobile to Backend Development*
-
-
+<sub>Building backend skills, one project at a time.</sub>
 
 </div>
